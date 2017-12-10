@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Interview</string>
+  <string name="hint">hint</string>
+  <string name="enter_a_word">Enter a word</string>
+  <string name="enter_text">Enter text</string>
+</resources>
